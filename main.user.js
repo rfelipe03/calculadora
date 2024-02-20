@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        New script - doentedamental.github.io
 // @namespace   Violentmonkey Scripts
-// @match       https://github.com/rfelipe03/calculadora/edit/main/README.md
+// @match       https://web.archive.org/web/*/https://doentedamental.github.io/
 // @grant       none
 // @version     2.0
 // @author      -
